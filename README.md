@@ -1,16 +1,16 @@
-📊 Workforce & Sales Intelligence Dashboard (Excel)
-📌 Project Description
+ Workforce & Sales Intelligence Dashboard (Excel)
+ Project Description
 
 An interactive sales and workforce analytics dashboard built entirely in Microsoft Excel.
 This dashboard helps analyze regional sales performance, delivery efficiency, and cancellation trends to support data-driven business decisions.
 
-🎯 Problem Statement
+ Problem Statement
 
 Businesses generate large volumes of sales and operational data. Without structured visualization, it becomes difficult to track performance, identify risks, and improve efficiency.
 
 This dashboard transforms raw data into actionable insights using Excel-based analytics.
 
-🛠 Tools Used
+ Tools Used
 
 Microsoft Excel
 
@@ -24,7 +24,7 @@ Excel Formulas
 
 Conditional Formatting
 
-📊 Dashboard Features
+ Dashboard Features
 
 Sales by Region & Product Category
 
@@ -38,7 +38,7 @@ KPI Cards (Revenue, Delivery %, Cancellation Rate, Effective Sales)
 
 Interactive Filters (Region, Payment Method, Delivery Status, Month)
 
-📈 Key Insights
+ Key Insights
 
 North region generated the highest revenue
 
@@ -50,7 +50,7 @@ Overall cancellation rate: 30%
 
 Delivery efficiency needs improvement
 
-🚀 How to Use
+ How to Use
 
 Download the Excel file
 
